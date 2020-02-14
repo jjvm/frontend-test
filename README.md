@@ -1,5 +1,9 @@
 # frontend-test
+# For Build file
+```
+go to \dist\index.html
 
+```
 ## Project setup
 ```
 npm install
